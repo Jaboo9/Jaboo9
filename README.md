@@ -2,8 +2,6 @@
 
 ![22008269](https://user-images.githubusercontent.com/22008269/91457002-ce6b9580-e87b-11ea-84b1-b813813c4b79.png)
 
-![Profileimage](https://user-images.githubusercontent.com/22008269/92015188-518f5e80-ed48-11ea-9886-393bc96195c6.jpeg)
-
 <!--
 **Jaboo9/Jaboo9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
