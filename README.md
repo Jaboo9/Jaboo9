@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![22008269](https://user-images.githubusercontent.com/22008269/91457002-ce6b9580-e87b-11ea-84b1-b813813c4b79.png)
+- 🌱 I’m currently learning GraphQL and Ruby
 
 <!--
 **Jaboo9/Jaboo9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
