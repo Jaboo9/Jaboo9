@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... A part-time Farmer and a Doughnut Lover :smile:
+
 
 <!--
 **Jaboo9/Jaboo9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
