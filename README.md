@@ -1,20 +1,8 @@
 ### Hi there 👋
 
+I work as a Developer Support Engineer with GitHub :octocat:. I know a lot of stuffs about APIs and Integration, so I am happy to collaborate on any open source project that involves the use of GitHub API.
+
+I am currently stengthening my skills in cybersecurity, so outside work you'd find me studying 🧑‍🎓 and hammering 🔨 cyber security related projects.
 
 
-<!--
-**Jaboo9/Jaboo9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... My Number
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... None
--->
