@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I work as a Developer Support Engineer with GitHub :octocat:. I know a lot of stuffs about APIs and Integrations, so I am happy to collaborate on any open source project that involves the use of GitHub API, webhooks and Apps.
+I'm a Developer Support Engineer at GitHub 🐙, helping developers navigate the world of APIs, webhooks, and GitHub Apps. If you're working on an open-source project that integrates with GitHub, I'd love to collaborate! 🚀
 
-I am currently stengthening my skills in cybersecurity, outside supporting the amazing GitHub developers, you'd find me studying 🧑‍🎓 and hammering 🔨 cyber security related projects.
+Beyond supporting amazing GitHub developers, I'm diving deep into cybersecurity 🛡️—constantly learning, building, and breaking things (ethically, of course!). You'll often find me experimenting with security projects 🔐, sharpening my skills, and exploring new ways to make the web a safer place.
+
+Let's connect, build, and secure awesome things together! ⚡
 
 
 
